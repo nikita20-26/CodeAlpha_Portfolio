@@ -48,15 +48,5 @@ A web application that allows users to convert values between different currenci
 - CSS3
 - JavaScript
 
-## Project Structure
 
-```text
-CodeAlpha_Portfolio
-├── index.html
-├── style.css
-├── script.js
-└── README.md### Last step ✅
 
-Neeche **Commit changes** par click karo.
-
-README ban jayegi aur tumhara Portfolio GitHub repo complete ho jayega. 🎉
